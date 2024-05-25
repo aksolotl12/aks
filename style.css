@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+body{
+    background-image: url("1626746380_30-kartinkin-com-p-pikselnaya-tekstura-travi-krasivo-35.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:25px;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: 'Single Day', cursive;
+    display: flex;
+    flex-direction: column;
+
+}
+
+footer{
+
+    left: 0px;
+    bottom: 0;
+    padding: 10px;
+    background-color: rgb(58, 55, 55);
+    width: 100%;
+}
+
+.k1{
+
+
+    background-color: rgb(159, 243, 173);
+    border: none;
+    border-radius: 20px;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 15px;
+    transition-duration: 1s;
+}
+.k2{
+    background-color: rgb(159, 243, 173);
+    border: none;
+    border-radius: 20px;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 15px;
+    transition-duration: 1s;
+}
+
+.k3{
+    background-color: rgb(159, 243, 173);
+    border: none;
+    border-radius: 20px;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 15px;
+    transition-duration: 1s;
+}
+.k4{
+    background-color: rgb(159, 243, 173);
+    border: none;
+    border-radius: 20px;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 15px;
+    transition-duration: 1s;
+}
+.k5{
+    background-color: rgb(159, 243, 173);
+    border: none;
+    border-radius: 20px;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 15px;
+    transition-duration: 1s;
+}
+.k6{
+    background-color: rgb(159, 243, 173);
+    border: none;
+    border-radius: 20px;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 15px;
+    transition-duration: 1s;
+}
+.an1{
+    background-color: rgb(159, 243, 173);
+    border: none;
+    border-radius: 20px;
+    padding: 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 15px;
+    transition-duration: 1s;
+}
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.v1{
+
+    border: none;
+    color: rgb(29, 82, 4);
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+img{
+    margin: 10px auto 20px;
+    display: block;
+    border: 3px rgb(255, 255, 255) solid;
+}
+.p1{
+    color:white;
+}
+a{
+    text-decoration: none;
+    color: rgb(4, 87, 29);
+}
+.l1{
+    color: rgb(4, 87, 29);
+}
+on{
+    list-style-type:  none;
+}
+.k1:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    background-color: rgb(82, 244, 109);
+}
+.k2:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    background-color: rgb(82, 244, 109);
+}
+.k3:hover{
+    transform:  scale(1.1);
+    transition-duration: 1s;
+    background-color: rgb(82, 244, 109);
+}
+.k4:hover{
+    transform:  scale(1.1);
+    transition-duration: 1s;
+    background-color: rgb(82, 244, 109);
+}
+.k5:hover{
+    transform:  scale(1.1);
+    transition-duration: 1s;
+    background-color: rgb(82, 244, 109);
+}
+.k6:hover{
+    transform:  scale(1.1);
+    transition-duration: 1s;
+    background-color: rgb(82, 244, 109);
+}
+.an1:hover{
+    transform:  scale(1.1);
+    transition-duration: 1s;
+    background-color: rgb(82, 244, 109);
+}
+li{
+    list-style: none;
+}
+.fr{
+    width: 100px;
+    height: 100px;
+}
+main{
+    margin: 50px,0px;
+}
+.m1{
+    width: 100px;
+    height: 100px;
+}
+.q1{
+    width: 200px;
+    height: 200px;
+}
