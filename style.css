@@ -201,3 +201,43 @@ main{
     width: 200px;
     height: 200px;
 }
+
+
+
+
+
+
+
+
+@media (min-width:320px ){
+
+    h1{
+        margin: auto;
+        font-size: 30px;
+    }
+    img{
+        width: 320px;
+    }
+    ul{
+        padding: 0;
+    }
+    iframe{
+        width: 320px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
